@@ -1,3 +1,3 @@
 # Recipe-book
 Tech stack
-HTML
+HTML, CSS , JAVASCRIPT
