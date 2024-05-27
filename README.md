@@ -1,8 +1,9 @@
 # Recipe-book
-Tech stack
+## Tech Stack
+
 HTML, CSS , JAVASCRIPT
 
-Features
+## Features
 
 Displays all the recipes stored in the Recipe Book.
 
